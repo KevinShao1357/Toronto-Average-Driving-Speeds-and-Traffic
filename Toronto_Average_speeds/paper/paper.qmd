@@ -103,7 +103,7 @@ According to @tbl-table2, the mean, standard deviation, maximum, and minimum of 
 
 Considering the mean and standard deviation of average driving speeds in Toronto, these values are actually higher than the global average of 30 km/h measured in 2022 (@citemovotiv). The average driving speeds in Toronto have also improved compared to that of Toronto two years ago, measured as 24 km/h in 2022, and is much higher than the 20 km/h speed during peak traffic (@citectv). Note that the average recorded speeds in Toronto are measured where speed display signs are present, and such signs give drivers incentives to drive more carefully, and more slowly, than usual, meaning that the measured speeds in Toronto may be even lower than the actual value. This means that although there is a relatively higher frequency of cars in traffic compared to the number of cars that drive exceptionally faster as shown in the two outliers at 0 and 80 km/h respectively of the data set, these possible congestion occurences are not significant compared to global road traffic performances.
 
-# Data Conclusion and Limitations
+## Data Conclusion and Limitations
 
 Although it may be hard to conclude that Toronto's traffic are better-off compared to global circumstances just by this one data set, there is no evidence that Toronto has comparatively bad traffic given the high average recorded speeds displayed in this chosen data set.
 
